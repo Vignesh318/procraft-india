@@ -1,0 +1,6 @@
+{
+  "name": "Procraft India - Musical Instruments & Audio Gear",
+  "description": "Premium guitars, headphones, in-ear monitors, ukuleles, amplifiers, and music gear online store clone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
